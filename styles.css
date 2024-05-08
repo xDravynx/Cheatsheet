@@ -1,0 +1,147 @@
+.navi {
+  height: 50px;
+  width: 100px;
+  text-align: center;
+  font-family: "Courier Prime", Courier, monospace;
+  font-size: 20px;
+  position: fixed;
+}
+h1 {
+  font-size: 100px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 75px;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  text-align: center;
+}
+
+table {
+  font-size: 20px;
+  text-align: center;
+  border: 1px solid hsl(0, 0%, 0%);
+  position: relative;
+  width: 50%;
+  height: 50%;
+  margin: 0 auto;
+}
+
+td,
+th {
+  border: 1px solid hsl(0, 0%, 0%);
+  padding: 10px;
+  font-family: "Courier Prime", Courier, monospace;
+}
+
+th {
+  background-color: hsl(0, 0%, 0%);
+  color: white;
+}
+
+#red {
+  background-color: hsl(0, 100%, 50%);
+}
+#red-1 {
+  background-color: rgb(255, 0, 0);
+}
+#red-2 {
+  background-color: #ff0000;
+}
+#orange {
+  background-color: hsl(30, 100%, 50%);
+}
+#orange-1 {
+  background-color: rgb(255, 128, 0);
+}
+#orange-2 {
+  background-color: #ff8000;
+}
+
+#yellow {
+  background-color: hsl(60, 100%, 50%);
+}
+#yellow-1 {
+  background-color: rgb(255, 255, 0);
+}
+#yellow-2 {
+  background-color: #ffff00;
+}
+
+#green {
+  background-color: hsl(120, 100%, 25%);
+}
+#green-1 {
+  background-color: rgb(0, 128, 0);
+}
+#green-2 {
+  background-color: #008000;
+}
+
+#blue {
+  background-color: hsl(240, 100%, 50%);
+}
+#blue-1 {
+  background-color: rgb(0, 0, 255);
+}
+#blue-2 {
+  background-color: #0000ff;
+}
+
+#purple {
+  background-color: hsl(300, 100%, 25%);
+}
+#purple-1 {
+  background-color: rgb(128, 0, 128);
+}
+#purple-2 {
+  background-color: #800080;
+}
+
+#pink {
+  background-color: hsl(350, 100%, 88%);
+}
+#pink-1 {
+  background-color: rgb(255, 194, 204);
+}
+#pink-2 {
+  background-color: #ffc2cc;
+}
+
+#white {
+  background-color: hsl(0, 0%, 100%);
+  color: #000000;
+}
+#white-1 {
+  background-color: rgb(255, 255, 255);
+}
+#white-2 {
+  background-color: #ffffff;
+}
+
+#black {
+  background-color: hsl(0, 0%, 0%);
+  color: hsl(0, 0%, 100%);
+}
+#black-1 {
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+}
+#black-2 {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+#gray {
+  background-color: hsl(0, 0%, 50%);
+}
+#gray-1 {
+  background-color: rgb(128, 128, 128);
+}
+#gray-2 {
+  background-color: #808080;
+}
